@@ -1,11 +1,4 @@
-type Props = {
-    myName: string; // Define the 'name' prop as a string
-    favWrestler: string
-    favColor : string
-  };
-
-
-export default function Property(props: Props){
+export default function Property(props: any){
     return(
         <div>
         <h1>Hello my name is, {props.myName}</h1>
