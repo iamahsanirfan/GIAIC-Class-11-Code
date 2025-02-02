@@ -5,4 +5,4 @@ Class Assignment
 <br>
 Practice Code
 <br>
-GIAIC
+GIAIC Quarter 2
